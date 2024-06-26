@@ -1,0 +1,1 @@
+docker run -v `(pwd)`/works:/platform-a/works platform-a-stickers
